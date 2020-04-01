@@ -1,2 +1,3 @@
-# Training Latent Single-Instance Masks
+# Training Latent Single-Instance Masks (LSIM)
 
+To be continued...
